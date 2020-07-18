@@ -1,0 +1,11 @@
+.container{
+    margin-top: 20px;
+}
+.productos{
+    display: flex;
+    flex-wrap: wrap; 
+}
+
+.barra{
+    width: 300px;
+}
